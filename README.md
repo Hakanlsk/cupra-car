@@ -2,30 +2,25 @@
 CUPRA MOBILE APP
 </h1>
 
-<p align="left">
-  <img align="left" src="[https://github.com/cnrture/BooksApp/blob/main/Screenshots/sign_in.png](https://github.com/Hakanlsk/cupra-car/assets/123507532/6a9d9ddc-3821-40e2-835b-540f87812382)" width="250" height="530"/>
-</p>
-
 <h2 align="center">
 Login Screen
 </h2>
+![login](https://github.com/Hakanlsk/cupra-car/assets/123507532/ba8d0f7c-2388-4aa1-81f3-5e825bb7fb60)
 
 <h2 align="center">
 Home Screen
 </h2>
 
-<p align="center">
-![home](https://github.com/Hakanlsk/cupra-car/assets/123507532/b42d7899-1305-4f93-96bf-c4db5adf622f)
-</p>
+![home](https://github.com/Hakanlsk/cupra-car/assets/123507532/19e20dd7-315f-4098-ac45-72a4c5213f44)
+
 
 <h2 align="center">
 Detail Screen
 </h2>
 
-<p align="center">
-![detail-1](https://github.com/Hakanlsk/cupra-car/assets/123507532/8eba8a4d-ed4f-49c7-80fd-caf3274d77ba)
-![detail-2](https://github.com/Hakanlsk/cupra-car/assets/123507532/ec25fb50-07ff-44a0-98b3-134ec551850c)
-</p>
+![detail-2](https://github.com/Hakanlsk/cupra-car/assets/123507532/67f89683-4fd3-4cf1-bccd-b83e562da19e)
+![detail-1](https://github.com/Hakanlsk/cupra-car/assets/123507532/7255564a-95df-492a-bd05-0331f44283f1)
+
 
 
 
