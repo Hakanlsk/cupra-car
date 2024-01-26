@@ -3,7 +3,7 @@ CUPRA MOBILE APP
 </h1>
 
 <p align="left">
-![login](https://github.com/Hakanlsk/cupra-car/assets/123507532/6a9d9ddc-3821-40e2-835b-540f87812382)
+  <img align="left" src="[https://github.com/cnrture/BooksApp/blob/main/Screenshots/sign_in.png](https://github.com/Hakanlsk/cupra-car/assets/123507532/6a9d9ddc-3821-40e2-835b-540f87812382)" width="250" height="530"/>
 </p>
 
 <h2 align="center">
