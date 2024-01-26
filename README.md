@@ -6,7 +6,7 @@ CUPRA MOBILE APP
 Login Screen
 </h2>
 
-<img src="https://github.com/Hakanlsk/cupra-car/assets/123507532/2ff31b3d-899f-446d-b18e-fa7cb3a23fec" alt="login" align="center" width="250" height="530">
+<img align="center" src="https://github.com/Hakanlsk/cupra-car/assets/123507532/2ff31b3d-899f-446d-b18e-fa7cb3a23fec" alt="login" align="center" width="250" height="530">
 
 
 <h2 align="center">
